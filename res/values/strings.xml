@@ -3,5 +3,6 @@
 
     <string name="app_name">MyAndroid</string>
     <string name="hello">Hello World, MyAndroidActivity!</string>
+    <string name="str_button">click</string>
 
 </resources>
